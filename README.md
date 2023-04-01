@@ -2,11 +2,11 @@
 ### MARA MAKT TABLES
 ### SELECTION SCREEN, RADIO BUTTONS, DISPLAY TWO DIFFRENT TABLES
 
-:pen: Create two different perform
+:pen: Create two different performs
 
-:pen: Create two radio button to choose differnt perform
+:pen: Create two radio buttons to choose differnt performs
 
-:pen: Display differnt tables by using radio buttons
+:pen: Display different tables by using radio buttons
 
-:pen: Practice with inner join
+:pen: Practice with inner join to combine diffrent fields from MARA and MAKT
 

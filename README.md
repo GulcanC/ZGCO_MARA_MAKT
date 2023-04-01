@@ -2,16 +2,11 @@
 ### MARA MAKT TABLES
 ### SELECTION SCREEN, RADIO BUTTONS, DISPLAY TWO DIFFRENT TABLES
 
-:pen: Create model, structure for internal table
+:pen: Create two different perform
 
-🦋 Declare internal table and structure
+:pen: Create two radio button to choose differnt perform
 
-🦋 Select data from sflight table
+:pen: Display differnt tables by using radio buttons
 
-🦋 Append a row at the fin of the table
+:pen: Practice with inner join
 
-🦋 Insert a row at a specific index, using INDEX key word
-
-🦋 Modify field by using IF ELSE statement
-
-🦋 DELETE row from table
